@@ -169,10 +169,3 @@ Chauhan, Kartik
 Informatik Project – Driving Behavior Analysis & AI Modeling
 
 
-
-
-
-
-
-```python
-plt.scatter(distance, lateral_velocity, c=minTTC, cmap=cm.RdYlGn)
